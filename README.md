@@ -1,6 +1,6 @@
 # projeto-abstergo-industries-farmaceutica
 
-# RELATÓRIO DE IMPLEMENTAÇÃO DE SERVIÇOS AWS
+# Relatório de Implementação de Serviços AWS
 
 Data: [10/07/2023]
 Empresa: Abstergo Industries 
